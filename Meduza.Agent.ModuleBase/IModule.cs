@@ -6,14 +6,6 @@ namespace Meduza.Agent.ModuleBase
     {
         string Name { get; }
 
-        string Author { get; }
-
-        string Description { get; }
-
-        string FileName { get; }
-
-        string Usage { get; }
-
         List<ICommand> Commands { get; set; }
     }
 }

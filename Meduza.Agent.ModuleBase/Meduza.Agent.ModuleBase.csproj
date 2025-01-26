@@ -8,7 +8,6 @@
 		<Description>A NuGet package for creating custom modules for the Meduza project. See more at: https://github.com/ksel172/Meduza</Description>
 		<RepositoryUrl>https://github.com/ksel172/Meduza.Agent.ModuleBase</RepositoryUrl>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageProjectUrl>https://github.com/ksel172/Meduza.Agent.ModuleBase</PackageProjectUrl>
 		<PackageIcon>meduza-icon.png</PackageIcon>
 		<PackageTags>Meduza;Modules;C2</PackageTags>
 		<PackageReleaseNotes>Initial release.</PackageReleaseNotes>

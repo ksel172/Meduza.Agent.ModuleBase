@@ -6,8 +6,6 @@ namespace Meduza.Agent.ModuleBase
     {
         string Name { get; }
 
-        string Description { get; }
-
         Stream OutputStream { get; set; }
 
         string Execute(string[] args = null);
