@@ -11,6 +11,7 @@
 		<PackageIcon>meduza-icon.png</PackageIcon>
 		<PackageTags>Meduza;Modules;C2</PackageTags>
 		<PackageReleaseNotes>Initial release.</PackageReleaseNotes>
+		<EnableDynamicLoading>true</EnableDynamicLoading>
 	</PropertyGroup>
 
 	<ItemGroup>
